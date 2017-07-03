@@ -1,2 +1,24 @@
 # Auto detect text files and perform LF normalization
+
+<HTML>
+  <HEAD>Mi sitio web</HEAD>
+  <BODY>
+<a> Ingenieria de sofwtare.</a>
+Nombre: Isabel Paste<br>
+Practica del GIT<br>
+
+	 <table class="table table-striped">
+   	  <tr> 
+   	  	<td>ID</td>
+   	  	 <td>NOMBRE</td> 
+   	  	 <td>MATERIA</td>
+   	  	 <td>DOCENTE</td>
+   	  	 <td>AÃ‘O LECTIVO</td> 
+   	  	 <td>ASISTENCIAS</td>
+   	  	
+   	   </tr>
+</table>
+  </BODY>
+</HTML>
+
 * text=auto
